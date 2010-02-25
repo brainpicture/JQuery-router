@@ -1,4 +1,4 @@
-== Router JQuery plugin ==
+# Router JQuery plugin
 For one page web applications.
 Generate anchor urls like:
 	http://example.com/#/act=wow
